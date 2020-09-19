@@ -8,7 +8,7 @@
 
 int main (int argc, char * const argv[]) {
   // hard coded example program parameters
-  const char filePath[] = "/Users/ragingwind/Downloads/protopie.png";
+  const char filePath[] = "/Users/ragingwind/Downloads/myimage.png";
   int width = 256;
   int height = 256;
 
